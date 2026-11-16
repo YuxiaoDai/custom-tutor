@@ -1,6 +1,10 @@
 # custom-tutor
 
-A Claude skill that turns Claude into a personal tutor:
+**Courses are raw material, not a route.** Don't follow one course end to
+end: hand an AI 2–4 good courses plus your background, and let it be your
+editor (pick, cut, order) and your tutor (teach, test, grade).
+
+A Claude skill that turns Claude into that personal tutor:
 
 1. **Intake** — five questions about your goal, background, time, and how you learn.
 2. **Merge syllabi** — give it 2–4 course links; it builds a topic × course
