@@ -14,9 +14,15 @@ All state is plain Markdown (`learner.md`, `syllabus.md`, `progress.md`), so
 any session picks up where the last one stopped, and the tutor gets better at
 teaching *you* over time.
 
-## Install
+## No install: copy a prompt
 
-Copy this folder to `~/.claude/skills/custom-tutor/` (Claude Code), then say
+Don't use Claude Code? Paste the prompt in [`prompt.md`](prompt.md)
+(English and Chinese) into any AI chat. You get the same three steps; the
+skill just keeps the state in files for you.
+
+## Install (Claude Code)
+
+Copy this folder to `~/.claude/skills/custom-tutor/`, then say
 "start a course" in any project folder.
 
 ## Commands

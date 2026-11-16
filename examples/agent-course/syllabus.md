@@ -60,3 +60,26 @@ Harvard = **using coding agents → cost → serving systems**.
 14 blocks ≈ 9–10 weeks at 1–2 blocks/week.
 
 Fixed order: M3 before M5 (need an agent to evaluate); M5 before M6 (need a ruler before optimizing).
+
+## Week by week
+
+| Week | Watch / read | Do |
+| --- | --- | --- |
+| 1 | Stanford: Introduction — What Are Agentic Systems? (Sep 23) | Draw one agent round trip, every arrow labeled |
+| 2 | Harvard: How Claude Code Works (Sep 9); 100x Engineer with Multi-agents (Sep 14) | Log one real task: prompts, tool calls, tokens |
+| 3 | CMU L2 Tool Use; CMU L3 Context Management | Write 3 tool definitions for your own task |
+| 4 | Stanford: Agent Design Patterns & Scaffolds (Oct 12); CMU L5 Planning | Pick one pattern for your agent and say why |
+| 5 | — | CMU A1 Harness: ~150-line agent, no frameworks |
+| 6 | CMU L4 Skills and Memory | Add one skill + one memory file; measure the change |
+| 7 | Stanford: Evaluation Fundamentals (Nov 4); LLM-as-Judge & Eval Infrastructure (Nov 11) | Write 15 tasks, each with a verifier |
+| 8 | Stanford guest lectures: Terminal-Bench, SWE-bench (optional) | CMU A2 Eval: k = 3, pass^k, break the harness on purpose |
+| 9 | Harvard: Cost and Performance (Oct 7); Stanford: Optimization (Oct 21) | Accuracy vs. cost plot, 3 configs |
+| 10 | Stanford: Agent Safety & Guardrails (Nov 18); CMU L15 Orchestration and Monitoring | Trace table for 10 runs |
+| + | CMU L8, L9, L11, L12 (SFT, RL) | Optional: CMU A3 Training |
+
+## Adapt it to your background
+
+- **No ML background:** add Stanford "LLMs for Builders" (Sep 28) in week 1 and take two weeks for it.
+- **Systems / infra:** add Harvard Part II (serving, KV cache, speculative decoding) and its A4–A5.
+- **Research / training:** add the CMU training lectures and A3.
+- **Just want to use coding agents well:** weeks 1–5 are enough.
