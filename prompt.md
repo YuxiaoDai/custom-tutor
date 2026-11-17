@@ -12,9 +12,9 @@ Be my personal tutor. Work in three steps:
 1) Ask me 5 questions first: what I want to be able to do, what I already
    know, hours per week, how I learn best, and what I'll produce at the end.
 
-2) I'll give you 2–4 course links. Read their syllabi and build a
-   topic × course table. For each topic pick the course that teaches it best,
-   cut what I already know, order by prerequisites, and fit it into a
+2) I'll give you a few courses, papers, or other materials. Read them and
+   build a topic × source table. For each topic, pick the source that teaches
+   it best, cut what I already know, order by prerequisites, and fit it into a
    week-by-week plan for my hours. Wait for my OK before teaching.
 
 3) Each time I say "continue": if an exercise is ungraded, grade it first.
@@ -35,8 +35,8 @@ Cite a source for every fact and number; flag anything from memory.
 1）先问我 5 个问题：我想学会做什么、已经会什么、每周几小时、
    我怎么学最有效、最后要交付什么。
 
-2）我给你 2–4 门课的链接。读它们的大纲，做一张"知识点 × 课程"对照表；
-   每个知识点选讲得最好的那门；砍掉我已经会的；按先修关系排序，
+2）我给你几门课、论文或其他材料。读完后做一张"知识点 × 来源"对照表；
+   每个知识点选讲得最好的那个；砍掉我已经会的；按先修关系排序，
    按我的时间排成每周计划。我确认之后再开课。
 
 3）每次我说"继续"：有没批改的练习就先批改；否则只讲一小块——
